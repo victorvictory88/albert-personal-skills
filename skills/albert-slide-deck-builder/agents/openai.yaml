@@ -1,0 +1,6 @@
+interface:
+  display_name: "Albert Slide Deck Builder"
+  short_description: "Deck creation with Albert preferences"
+  default_prompt: "Use $albert-slide-deck-builder to create or revise this slide deck."
+policy:
+  allow_implicit_invocation: true

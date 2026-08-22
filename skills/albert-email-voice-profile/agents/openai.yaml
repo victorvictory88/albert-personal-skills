@@ -1,0 +1,4 @@
+interface:
+  display_name: "Albert Email Voice Profile"
+  short_description: "Calibrate email drafts from sent mail"
+  default_prompt: "Use $albert-email-voice-profile to build or refresh my email voice profile."

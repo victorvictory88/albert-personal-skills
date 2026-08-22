@@ -1,0 +1,6 @@
+interface:
+  display_name: "Albert Decision Work"
+  short_description: "High-stakes decision synthesis"
+  default_prompt: "Use $albert-decision-work to evaluate a high-stakes decision and recommend the next step."
+policy:
+  allow_implicit_invocation: true

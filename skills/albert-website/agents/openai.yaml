@@ -1,0 +1,4 @@
+interface:
+  display_name: "Albert Candidate Application Site"
+  short_description: "Build and publish tailored candidate sites"
+  default_prompt: "Use $albert-website to build and publish a tailored candidate application site for this role."

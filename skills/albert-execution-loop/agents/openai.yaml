@@ -1,0 +1,4 @@
+interface:
+  display_name: "Albert Execution Loop"
+  short_description: "Route, build, review, verify, and report"
+  default_prompt: "Use $albert-execution-loop to route this work through Standard or Deep Audit Mode, execute it end to end, and verify the result."

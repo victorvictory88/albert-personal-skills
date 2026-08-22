@@ -1,0 +1,6 @@
+interface:
+  display_name: "Albert Instruction Maintenance"
+  short_description: "Route and maintain durable preferences"
+  default_prompt: "Use $albert-instruction-maintenance to update Albert’s instruction system."
+policy:
+  allow_implicit_invocation: true

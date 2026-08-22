@@ -1,0 +1,354 @@
+{
+  "generated_at": "2026-08-22T19:34:49.208403+00:00",
+  "window_days": 120,
+  "cutoff": "2026-04-24T19:34:49.208403+00:00",
+  "minimum_uses": 3,
+  "top_limit": 0,
+  "codex_files_scanned": 383,
+  "claude_files_scanned": 144,
+  "skills": [
+    {
+      "skill": "albert-writing-style",
+      "uses": 204,
+      "codex_uses": 163,
+      "claude_uses": 41,
+      "included": true
+    },
+    {
+      "skill": "albert-execution-loop",
+      "uses": 142,
+      "codex_uses": 131,
+      "claude_uses": 11,
+      "included": true
+    },
+    {
+      "skill": "albert-research-synthesis",
+      "uses": 55,
+      "codex_uses": 50,
+      "claude_uses": 5,
+      "included": true
+    },
+    {
+      "skill": "albert-instruction-maintenance",
+      "uses": 46,
+      "codex_uses": 32,
+      "claude_uses": 14,
+      "included": true
+    },
+    {
+      "skill": "albert-chief-of-staff",
+      "uses": 40,
+      "codex_uses": 40,
+      "claude_uses": 0,
+      "included": true
+    },
+    {
+      "skill": "albert-decision-work",
+      "uses": 37,
+      "codex_uses": 31,
+      "claude_uses": 6,
+      "included": true
+    },
+    {
+      "skill": "albert-prompt-optimization",
+      "uses": 32,
+      "codex_uses": 27,
+      "claude_uses": 5,
+      "included": true
+    },
+    {
+      "skill": "albert-slide-deck-builder",
+      "uses": 27,
+      "codex_uses": 22,
+      "claude_uses": 5,
+      "included": true
+    },
+    {
+      "skill": "albert-tailor-resume",
+      "uses": 11,
+      "codex_uses": 9,
+      "claude_uses": 2,
+      "included": true
+    },
+    {
+      "skill": "albert-social-content",
+      "uses": 8,
+      "codex_uses": 3,
+      "claude_uses": 5,
+      "included": true
+    },
+    {
+      "skill": "albert-website",
+      "uses": 8,
+      "codex_uses": 8,
+      "claude_uses": 0,
+      "included": true
+    },
+    {
+      "skill": "albert-remotion-video",
+      "uses": 7,
+      "codex_uses": 4,
+      "claude_uses": 3,
+      "included": true
+    },
+    {
+      "skill": "albert-campaign-content-workflow",
+      "uses": 6,
+      "codex_uses": 6,
+      "claude_uses": 0,
+      "included": true
+    },
+    {
+      "skill": "albert-email-voice-profile",
+      "uses": 5,
+      "codex_uses": 5,
+      "claude_uses": 0,
+      "included": true
+    },
+    {
+      "skill": "albert-frontend-design",
+      "uses": 5,
+      "codex_uses": 5,
+      "claude_uses": 0,
+      "included": true
+    },
+    {
+      "skill": "albert-skill-creator",
+      "uses": 5,
+      "codex_uses": 5,
+      "claude_uses": 0,
+      "included": true
+    },
+    {
+      "skill": "albert-content-strategy",
+      "uses": 4,
+      "codex_uses": 4,
+      "claude_uses": 0,
+      "included": true
+    },
+    {
+      "skill": "albert-email-sequence",
+      "uses": 3,
+      "codex_uses": 3,
+      "claude_uses": 0,
+      "included": true
+    },
+    {
+      "skill": "albert-ad-creative",
+      "uses": 2,
+      "codex_uses": 2,
+      "claude_uses": 0,
+      "included": false
+    },
+    {
+      "skill": "albert-bot-crew",
+      "uses": 2,
+      "codex_uses": 1,
+      "claude_uses": 1,
+      "included": false
+    },
+    {
+      "skill": "albert-canvas-design",
+      "uses": 2,
+      "codex_uses": 2,
+      "claude_uses": 0,
+      "included": false
+    },
+    {
+      "skill": "albert-cold-email",
+      "uses": 2,
+      "codex_uses": 2,
+      "claude_uses": 0,
+      "included": false
+    },
+    {
+      "skill": "albert-doc-coauthoring",
+      "uses": 2,
+      "codex_uses": 2,
+      "claude_uses": 0,
+      "included": false
+    },
+    {
+      "skill": "albert-hosted-agents",
+      "uses": 2,
+      "codex_uses": 2,
+      "claude_uses": 0,
+      "included": false
+    },
+    {
+      "skill": "albert-multi-agent-patterns",
+      "uses": 2,
+      "codex_uses": 2,
+      "claude_uses": 0,
+      "included": false
+    },
+    {
+      "skill": "albert-product-marketing-context",
+      "uses": 2,
+      "codex_uses": 2,
+      "claude_uses": 0,
+      "included": false
+    },
+    {
+      "skill": "albert-project-development",
+      "uses": 2,
+      "codex_uses": 2,
+      "claude_uses": 0,
+      "included": false
+    },
+    {
+      "skill": "albert-video-download",
+      "uses": 2,
+      "codex_uses": 1,
+      "claude_uses": 1,
+      "included": false
+    },
+    {
+      "skill": "albert-ab-test-setup",
+      "uses": 1,
+      "codex_uses": 1,
+      "claude_uses": 0,
+      "included": false
+    },
+    {
+      "skill": "albert-ai-seo",
+      "uses": 1,
+      "codex_uses": 1,
+      "claude_uses": 0,
+      "included": false
+    },
+    {
+      "skill": "albert-claude-api",
+      "uses": 1,
+      "codex_uses": 1,
+      "claude_uses": 0,
+      "included": false
+    },
+    {
+      "skill": "albert-context-engineering",
+      "uses": 1,
+      "codex_uses": 1,
+      "claude_uses": 0,
+      "included": false
+    },
+    {
+      "skill": "albert-copy-editing",
+      "uses": 1,
+      "codex_uses": 1,
+      "claude_uses": 0,
+      "included": false
+    },
+    {
+      "skill": "albert-copywriting",
+      "uses": 1,
+      "codex_uses": 1,
+      "claude_uses": 0,
+      "included": false
+    },
+    {
+      "skill": "albert-customer-research",
+      "uses": 1,
+      "codex_uses": 1,
+      "claude_uses": 0,
+      "included": false
+    },
+    {
+      "skill": "albert-evaluation",
+      "uses": 1,
+      "codex_uses": 1,
+      "claude_uses": 0,
+      "included": false
+    },
+    {
+      "skill": "albert-launch-strategy",
+      "uses": 1,
+      "codex_uses": 1,
+      "claude_uses": 0,
+      "included": false
+    },
+    {
+      "skill": "albert-marketing-ideas",
+      "uses": 1,
+      "codex_uses": 1,
+      "claude_uses": 0,
+      "included": false
+    },
+    {
+      "skill": "albert-marketing-psychology",
+      "uses": 1,
+      "codex_uses": 1,
+      "claude_uses": 0,
+      "included": false
+    },
+    {
+      "skill": "albert-mcp-builder",
+      "uses": 1,
+      "codex_uses": 1,
+      "claude_uses": 0,
+      "included": false
+    },
+    {
+      "skill": "albert-memory-systems",
+      "uses": 1,
+      "codex_uses": 1,
+      "claude_uses": 0,
+      "included": false
+    },
+    {
+      "skill": "albert-page-cro",
+      "uses": 1,
+      "codex_uses": 1,
+      "claude_uses": 0,
+      "included": false
+    },
+    {
+      "skill": "albert-paid-ads",
+      "uses": 1,
+      "codex_uses": 1,
+      "claude_uses": 0,
+      "included": false
+    },
+    {
+      "skill": "albert-pricing-strategy",
+      "uses": 1,
+      "codex_uses": 1,
+      "claude_uses": 0,
+      "included": false
+    },
+    {
+      "skill": "albert-rocket-fuel",
+      "uses": 1,
+      "codex_uses": 1,
+      "claude_uses": 0,
+      "included": false
+    },
+    {
+      "skill": "albert-sales-enablement",
+      "uses": 1,
+      "codex_uses": 1,
+      "claude_uses": 0,
+      "included": false
+    },
+    {
+      "skill": "albert-theme-factory",
+      "uses": 1,
+      "codex_uses": 1,
+      "claude_uses": 0,
+      "included": false
+    },
+    {
+      "skill": "albert-tool-design",
+      "uses": 1,
+      "codex_uses": 1,
+      "claude_uses": 0,
+      "included": false
+    },
+    {
+      "skill": "albert-web-artifacts-builder",
+      "uses": 1,
+      "codex_uses": 1,
+      "claude_uses": 0,
+      "included": false
+    }
+  ]
+}

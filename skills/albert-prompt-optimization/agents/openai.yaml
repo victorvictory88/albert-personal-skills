@@ -1,0 +1,6 @@
+interface:
+  display_name: "Albert Prompt Optimization"
+  short_description: "Eval-driven prompt improvement loop"
+  default_prompt: "Use $albert-prompt-optimization to improve this recurring prompt with an eval loop."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Albert Writing Style"
+  short_description: "Write in Albert’s required voice and style"
+  default_prompt: "Use $albert-writing-style to write this in Albert’s voice."
+policy:
+  allow_implicit_invocation: true

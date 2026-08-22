@@ -1,0 +1,6 @@
+interface:
+  display_name: "Albert Research Synthesis"
+  short_description: "Source-grounded research and recommendations"
+  default_prompt: "Use $albert-research-synthesis to produce a source-grounded recommendation."
+policy:
+  allow_implicit_invocation: true
